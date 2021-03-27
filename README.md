@@ -1,4 +1,4 @@
-# Notepad
+#![notepad](https://raw.githubusercontent.com/iam-hasibul/notepad/main/icon.ico) Notepad
 
 ## Contents:
 - [Description](#Description)
@@ -16,7 +16,7 @@ This is a simple notepad made in python using Tkinter (GUI).
 4. Run `python notepad.py` from the repository's directory.
 
 ## Screenshot:
-<img src="screenshots/screenshot-01.png" alt="Screenshot-01">
+<img src="screenshot-01.png" alt="Screenshot-01">
 
 ## Download:
 [Download Here](https://github.com/iam-hasibul/notepad/blob/main/Notepad-1.0-win32.msi)
