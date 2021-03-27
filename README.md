@@ -1,4 +1,4 @@
-#![notepad](https://raw.githubusercontent.com/iam-hasibul/notepad/main/icon.ico) Notepad
+# Notepad
 
 ## Contents:
 - [Description](#Description)
