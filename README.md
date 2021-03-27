@@ -2,7 +2,7 @@
 
 ## Contents:
 - [Description](#Description)
-- [How to use](#How to use)
+- [How to use](#How%20to%20use)
 - [Screenshot](#Screenshot)
 - [Download](#Download)
 
@@ -17,3 +17,6 @@ This is a simple notepad made in python using Tkinter (GUI).
 
 ## Screenshot:
 <img src="screenshots/screenshot-01.png" alt="Screenshot-01">
+
+## Download:
+[Download Here](https://github.com/iam-hasibul/notepad/blob/main/Notepad-1.0-win32.msi)
